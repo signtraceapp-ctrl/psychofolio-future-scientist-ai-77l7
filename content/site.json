@@ -1,122 +1,146 @@
 {
   "site": {
-    "name": "Ad Soyad",
+    "name": "Future Scientist AI",
     "title": "Klinik Psikolog",
-    "email": "merhaba@drpsikolog.com",
-    "address": "Kadıköy, İstanbul",
-    "copyright": "Tüm hakları saklıdır."
+    "email": "futurescientistai@gmail.com",
+    "address": "Karaköy, İstanbul",
+    "copyright": "Tüm hakları saklıdır.",
+    "hours": "pazartesi salı",
+    "phone": "+905312775292"
   },
   "home": {
-    "badge": "WARM",
-    "headline": "Güvenli bir alanda,",
-    "headlineAccent": "birlikte",
-    "headlineSuffix": "iyileşelim.",
-    "description": "İlişkiler, aile dinamikleri ve bireysel zorluklarda samimi, şefkatli ve bilimsel temelli bir eşlik süreci.",
-    "cta": "Tanışma Seansı",
-    "cardTitle": "Klinik Psikolog",
-    "cardSubtitle": "Samimi ve Güvenilir Rehberlik",
-    "quote": "Sıcak yaklaşımı ve kurduğu samimi bağ sayesinde hayatımın en zor dönemini atlatırken kendimi çok güvende hissettim.",
+    "headline": "Test test",
+    "headlineAccent": "Test test",
+    "headlineSuffix": "iyileşelim Test test",
+    "description": "Test test Test test Test test",
+    "cta": "Test test",
+    "quote": "Test test",
     "quoteAuthor": "Danışan A.Y."
   },
+  "metrics": [
+    {
+      "val": "10+",
+      "unit": "Yıl",
+      "label": "Test test"
+    },
+    {
+      "val": "000",
+      "unit": "",
+      "label": "Test test"
+    }
+  ],
   "services": [
     {
-      "title": "Bireysel Psikoterapi",
-      "desc": "Stres, kaygı, depresyon, yaşam değişimleri ve anlam arayışında bireysel farkındalık yolculuğu.",
-      "duration": "50 dk",
-      "method": "CBT / Şema Terapi"
+      "desc": "Test test",
+      "title": "Test test",
+      "method": "Test test",
+      "duration": "2 dk"
     },
     {
-      "title": "Çift & İlişki Terapisi",
-      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.",
-      "duration": "75 dk",
-      "method": "Gottman / Sistemik"
+      "desc": "Test test\nTest test\nTest test\nTest test",
+      "title": "Test test",
+      "method": "Test test",
+      "duration": "5 dk"
     },
     {
-      "title": "EMDR Travma Terapisi",
-      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.",
-      "duration": "60 dk",
-      "method": "EMDR Protokolü"
+      "desc": "Test test",
+      "title": "Test test",
+      "method": "Test test",
+      "duration": "6dk"
+    },
+    {
+      "desc": "Test testTest testTest testTest test",
+      "title": "Test test",
+      "method": "Test test",
+      "duration": "5 Dk"
     }
   ],
   "about": {
     "title": "Ben Kimim?",
-    "intro": "Merhaba, ben Klinik Psikolog. Hayatın getirdiği iniş çıkışlarda, kendinizi sıkışmış hissettiğiniz anlarda size eşlik etmek için burayım.",
+    "intro": "Test test",
     "credentials": [
       {
-        "year": "2014",
-        "title": "İstanbul Üniversitesi - Psikoloji Lisans",
-        "detail": "Birincilik derecesiyle mezuniyet"
+        "year": "2004",
+        "title": "Test test",
+        "detail": "Test test"
       },
       {
-        "year": "2016",
-        "title": "Klinik Psikoloji Yüksek Lisansı",
-        "detail": "Kaygı bozuklukları tez çalışması"
-      },
-      {
-        "year": "2018",
-        "title": "EMDR Avrupa Akredite Uygulayıcı",
-        "detail": "EMDR Europe onaylı sertifika"
+        "year": "2010",
+        "title": "Test test",
+        "detail": "Test test"
       }
     ]
   },
   "approach": {
     "title": "Çalışma Prensiplerim",
-    "intro": "Terapi sürecinde üç temel değeri merkeze alarak ilerliyoruz:",
+    "intro": "Her danışan benzersizdir ve terapi süreci buna göre şekillenir.",
     "principles": [
       {
-        "title": "Güvenli Alan",
-        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan."
+        "desc": "Test test",
+        "title": "Test testGüvenli Alan"
       },
       {
-        "title": "Kişiye Özel Süreç",
-        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama."
+        "desc": "Test test, hızınıza ve hedeflerinize özel planlama.",
+        "title": "Test test"
       },
       {
-        "title": "Aktif İş Birliği",
-        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık."
+        "desc": "Test test",
+        "title": "Test test"
       }
     ]
   },
   "articles": [
     {
+      "date": "28 Mayıs 2026",
       "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
       "category": "Klinik",
-      "readTime": "8 dk",
-      "date": "28 Mayıs 2026"
+      "readTime": "8 dk"
     },
     {
+      "date": "24 Temmuz 2026",
       "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
       "category": "Çocuk-Ergen",
-      "readTime": "6 dk",
-      "date": "24 Temmuz 2026"
+      "readTime": "6 dk"
     },
     {
+      "date": "10 Nisan 2026",
       "title": "EMDR ile Travma Sonrası Büyüme",
       "category": "Travma",
-      "readTime": "10 dk",
-      "date": "10 Nisan 2026"
+      "readTime": "10 dk"
     }
   ],
   "faq": [
     {
-      "q": "İlk terapi seansında ne yapılıyor?",
-      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır."
+      "a": "Test test",
+      "q": "Test test"
     },
     {
-      "q": "Terapi seansları ne sıklıkla yapılmalı?",
-      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir."
+      "a": "Test test",
+      "q": "Test test"
     },
     {
-      "q": "Seansların gizliliği nasıl korunur?",
-      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır."
+      "a": "Test test",
+      "q": "Test testSeansların gizliliği nasıl korunur?"
     }
   ],
   "contact": {
-    "title": "Randevu & İrtibat",
-    "intro": "Seans planlamaları, grup atölyeleri veya diğer sorularınız için çekinmeden yazabilirsiniz.",
-    "formName": "İsminiz",
+    "title": "Randevu & İletişim",
+    "intro": "Test test",
+    "formName": "Ad Soyad",
     "formEmail": "E-posta",
-    "formMessage": "Mesajınız...",
+    "formMessage": "Mesajınız",
     "formSubmit": "Gönder"
+  },
+  "seo": {
+    "jobTitle": "Klinik Psikolog",
+    "description": "Future Scientist AI, Karaköy, İstanbul merkezli klinik psikolog.",
+    "specialties": [],
+    "credentials": [
+      "Test test (2004)",
+      "Test test (2010)"
+    ],
+    "location": "Karaköy, İstanbul",
+    "socialLinks": [],
+    "openingHours": "Mo-Fr 09:00-18:00"
   }
 }
